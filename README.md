@@ -9,7 +9,7 @@ My name is Svetlin Dimitrov. I started coding at the beginning of February in 20
 </div>
 
 <details>
- <summary><h3>👨‍💻 Programing Technologies</h3></summary>
+ <h3>👨‍💻 Programing Technologies</h3>
 
   <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -19,7 +19,7 @@ My name is Svetlin Dimitrov. I started coding at the beginning of February in 20
 </details>
 
 <details>
- <summary><h3>🎓 My Certificates</h3></summary>
+ <h3>🎓 My Certificates</h3>
   
 + [Programming Basics Certificate](https://softuni.bg/certificates/details/131327/965710a3)
 + [Fundamentals in Mathematics Certificate](https://softuni.bg/certificates/details/135839/7c88ff45)
@@ -36,7 +36,7 @@ My name is Svetlin Dimitrov. I started coding at the beginning of February in 20
 </details>
 
 <details>
- <summary><h3>📘 Training Platforms</h3></summary>
+ <h3>📘 Training Platforms</h3>
   
 + [My LeetCode Profile](https://leetcode.com/4orapa/)
   
