@@ -4,7 +4,7 @@ My name is Svetlin Dimitrov. I started coding at the beginning of February in 20
 
 
 <div style="clear:both;">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=SvetlinDimitrov&show_icons=true&theme=dark"/>
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SvetlinDimitrov&show_icons=true&theme=dark"/>
     <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvetlinDimitrov&layout=compact&theme=dark"/>
 </div>
 
