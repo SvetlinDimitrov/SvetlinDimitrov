@@ -1,14 +1,19 @@
 # Hi there 👋
+#
 My name is Svetlin Dimitrov. I started coding at the beginning of February in 2022. Immediately after that, coding turned into my greatest hobby. I spend 5-6 hours coding every day, developing my knowledge around Java, striving to become a better developer. Nowadays, I am a student at SoftUni.
+
 <div>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SvetlinDimitrov&show_icons=true&theme=dark"/>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvetlinDimitrov&layout=compact&theme=dark"/>
 </div>
-<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 
+
+<div>
+  <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</div>
 
 
 
