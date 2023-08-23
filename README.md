@@ -32,6 +32,9 @@ My name is Svetlin Dimitrov. I started coding at the beginning of February in 20
 + [JavaScript Front End Certificate](https://softuni.bg/certificates/details/168319/9a1f6432)
 + [MySQL Certificate](https://softuni.bg/certificates/details/172093/3c1f7849)
 + [Spring Data Certificate](https://softuni.bg/certificates/details/180500/8d17ff4b)
++ [Java Design Patterns & SOLID Design](https://www.udemy.com/certificate/UC-b5aa98b7-a81b-4ac9-90d1-48f76280690f/)
++ [The Complete Spring Boot Development Bootcamp](https://www.udemy.com/certificate/UC-b9d775e3-ec82-4415-a89e-c7dbc58c2ea6/)
++ [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-8b7e51f8-012b-4c50-a970-0b2a399c2048/)
 
 </details>
 
