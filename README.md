@@ -13,6 +13,7 @@ My name is Svetlin Dimitrov. I started coding at the beginning of February in 20
 
   <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img align="left" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 
@@ -32,6 +33,7 @@ My name is Svetlin Dimitrov. I started coding at the beginning of February in 20
 + [JavaScript Front End Certificate](https://softuni.bg/certificates/details/168319/9a1f6432)
 + [MySQL Certificate](https://softuni.bg/certificates/details/172093/3c1f7849)
 + [Spring Data Certificate](https://softuni.bg/certificates/details/180500/8d17ff4b)
++ [Spring Fundamentals Certificate](https://softuni.bg/certificates/certificates/converttoimage/191534?code=4d274f58)
 + [Java Design Patterns & SOLID Design](https://www.udemy.com/certificate/UC-b5aa98b7-a81b-4ac9-90d1-48f76280690f/)
 + [The Complete Spring Boot Development Bootcamp](https://www.udemy.com/certificate/UC-b9d775e3-ec82-4415-a89e-c7dbc58c2ea6/)
 + [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-8b7e51f8-012b-4c50-a970-0b2a399c2048/)
